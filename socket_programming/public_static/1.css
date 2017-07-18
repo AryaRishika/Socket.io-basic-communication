@@ -1,0 +1,47 @@
+.msgbox{
+    display: inline-block;
+    height:300px;
+    background-color: #ffebb7;
+}
+.frndmsg{
+    display: inline-block;
+    height:30px;
+    margin-top:5px;
+    background-color: #ff9769;
+    border: 2px solid black;
+}
+
+.mymsg{
+    display: inline-block;
+    height:30px;
+    margin-top:5px;
+    background-color: #c8f97f;
+    border: 2px solid black;
+
+}
+.clientList{
+
+    display: inline-block;
+    height:300px;
+    background-color: #bee1ff;
+
+}
+.client{
+
+    display: inline-block;
+    height:30px;
+    background-color: #bfff7f;
+    margin-top: 10px;
+
+}
+.aa{
+
+    display: inline-block;
+    background-color:red;
+    height:30px;
+}
+.msgs{
+    display: inline-block;
+    height:250px;
+    background-color: #ffbb3c;
+}
